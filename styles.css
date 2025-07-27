@@ -1,0 +1,56 @@
+body.menu-page {
+  font-family: 'Roboto', sans-serif;
+  margin: 20px;
+  background-color: #fff8f0;
+  color: #333;
+}
+
+.restaurant-title {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.section-title {
+  color: #c14400;
+  margin-top: 30px;
+  font-size: 1.5em;
+}
+
+.menu-list {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.menu-list li {
+  margin-bottom: 15px;
+}
+
+.contact-link {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.navbar {
+  background-color: #c14400;
+  padding: 10px;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-list a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-list a:hover {
+  text-decoration: underline;
+}
